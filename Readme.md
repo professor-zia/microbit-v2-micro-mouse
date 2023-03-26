@@ -1,6 +1,6 @@
 # micro:bit-v2 micro-mouse
 
-Based on Elekfreaks Smart Cutebot kit
+Based on Elecfreaks Smart Cutebot kit
 
 Cutebot Technical Information: https://www.elecfreaks.com/micro-bit-smart-cutebot.html
 
